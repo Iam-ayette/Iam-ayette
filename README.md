@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Iam-ayette
+- 👀 I’m interested in web development, especially with Angular, Node.js, and MongoDB.
+- 🌱 I’m currently learning more about full-stack development and enhancing my skills with new technologies.
+- 💞️ I’m looking to collaborate on open-source projects, particularly in web development and backend systems.
+- 📫 How to reach me: You can reach me via email at eyafrikha22@icloud.com or through my GitHub issues for collaboration.
+- 😄 Pronouns: Youta
+- ⚡ Fun fact: I love learning new programming languages and enjoy solving algorithm challenges.
